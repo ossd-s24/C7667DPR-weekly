@@ -22,6 +22,7 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | [https://en.wikipedia.org/wiki/Special:Contributions/C7667DPR]Wiki User Page   | Wikipedia   |   Added information/fixed typos   |
+#Hyperlink the url to the text proceeding it
+| Feb 3   | [Wiki User Page](https://en.wikipedia.org/wiki/Special:Contributions/C7667DPR)   | Wikipedia   |   Added information/fixed typos   |
 |     |     |     |      |
 |     |     |     |      |
