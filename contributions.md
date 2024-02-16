@@ -1,8 +1,3 @@
----
-layout: page
-title: My Open Source Contributions
-permalink: /contributions/
----
 
 <!--
 Type of the contribution should be "Wikipedia edit", "OpenStreet Map feature", "Documentation", "Course website", "Blog",
