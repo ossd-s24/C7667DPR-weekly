@@ -15,4 +15,4 @@ Replace the first row with your own contribution.
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 | Feb 3 & Onward  | [Wiki User Page](https://en.wikipedia.org/wiki/Special:Contributions/C7667DPR)   | Wikipedia |Added information/fixed typos|
-|  Feb 16 | [FreeAudioPlugins GitHub](https://github.com/twinysam/FreeAudioPluginList)    |  Repo   |  Added to directory of free plugins   |
+|  Feb 16 | [FreeAudioPlugins GitHub](https://github.com/twinysam/FreeAudioPluginList/pull/6)    |  Repo   |  Added to directory of free plugins   |
